@@ -1,0 +1,4 @@
+selenium==3.141.0
+chromedriver_autoinstaller==0.2.2
+beautifulsoup4==4.9.3
+regex==2021.7.6
